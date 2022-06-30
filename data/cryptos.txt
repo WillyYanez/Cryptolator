@@ -1,0 +1,5 @@
+BTC,Bitcoin,22453.53
+ETH,Ethereum,1220.15
+ADA,Cardano,0.5259 
+USDT,Tether,0.999
+BNB,Binance Coin,232.01
